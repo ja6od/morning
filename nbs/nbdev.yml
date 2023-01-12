@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "morning"
+  site-url: "https://ja6od.github.io/morning"
+  description: "fresh everything"
+  repo-branch: main
+  repo-url: "https://github.com/ja6od/morning"
